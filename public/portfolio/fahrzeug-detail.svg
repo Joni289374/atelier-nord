@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Fahrzeugbeschriftung-Mockup KlimaCraft">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9eb7b2"/>
+      <stop offset="55%" stop-color="#c5d2ce"/>
+      <stop offset="100%" stop-color="#7a8682"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky)"/>
+  <rect y="470" width="1200" height="205" fill="#4d5552"/>
+  <rect y="470" width="1200" height="8" fill="#c6a56a" opacity="0.35"/>
+  <!-- van body -->
+  <g transform="translate(140 210)">
+    <rect x="0" y="80" width="760" height="230" rx="18" fill="#f7faf8" stroke="#d7dedb" stroke-width="3"/>
+    <path d="M40 80 L220 20 H560 L700 80 Z" fill="#eef3f1" stroke="#d7dedb" stroke-width="3"/>
+    <rect x="240" y="40" width="170" height="70" rx="6" fill="#9eb8c0" opacity="0.85"/>
+    <rect x="430" y="40" width="110" height="70" rx="6" fill="#9eb8c0" opacity="0.7"/>
+    <rect x="40" y="110" width="520" height="150" rx="4" fill="#14352b"/>
+    <text x="70" y="175" fill="#e8eeec" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="700">KlimaCraft</text>
+    <text x="70" y="210" fill="#8fb9b0" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="3">HEIZUNG · KLIMA · SERVICE</text>
+    <text x="70" y="240" fill="#c6a56a" font-family="Helvetica, Arial, sans-serif" font-size="16">030 555 88 20</text>
+    <circle cx="160" cy="320" r="48" fill="#1a1f1d" stroke="#2a3130" stroke-width="10"/>
+    <circle cx="560" cy="320" r="48" fill="#1a1f1d" stroke="#2a3130" stroke-width="10"/>
+    <circle cx="160" cy="320" r="18" fill="#6a7370"/>
+    <circle cx="560" cy="320" r="18" fill="#6a7370"/>
+  </g>
+  <text x="140" y="620" fill="#e8eeec" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2">ATELIER NORD · FAHRZEUGDESIGN + FOLIER-PARTNER</text>
+</svg>
